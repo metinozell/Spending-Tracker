@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2025-09-27",
+        "category": "Food",
+        "amount": 300.0,
+        "description": "Lunch"
+    },
+    {
+        "date": "2025-09-27",
+        "category": "Transport",
+        "amount": 1564.87,
+        "description": "Diesel"
+    },
+    {
+        "date": "2020-12-15",
+        "category": "Transport",
+        "amount": 15000.0,
+        "description": "Bought a new car."
+    },
+    {
+        "date": "2024-12-30",
+        "category": "Health",
+        "amount": 500.0,
+        "description": "Glasses"
+    }
+]
