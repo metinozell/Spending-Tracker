@@ -1,5 +1,3 @@
-Harika 👍 O zaman README’yi daha modern, görselli ve dikkat çekici hale getirdim. İşte güncellenmiş versiyon:
-
 ---
 
 # 💸 Spending-Tracker
